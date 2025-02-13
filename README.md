@@ -8,7 +8,7 @@ Repositório pessoal para armanezar soluções de problemas da plataforma [Codef
 
 ## 🚀 | Estrutura do Repositório
 As soluções serão armazenadas diretamente no repositório, sem organização em pastas inicialmente. Cada arquivo Python conterá:
-- O nome do problema no formato `problema_nome.py`.
+- O nome do problema no formato `númeroproblema_problema_nome.py`.
 - Comentários explicativos sobre a abordagem utilizada.
 
 ## 📝 | Convenções
