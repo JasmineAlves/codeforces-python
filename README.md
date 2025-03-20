@@ -13,4 +13,3 @@ As soluções serão armazenadas diretamente no repositório, sem organização 
 
 ## 📝 | Convenções
 - Cada arquivo conterá um cabeçalho contendo o nome e link do problema original.
-- Utilizar boas práticas de escrita de código para facilitar revisão e aprendizado futuro.
